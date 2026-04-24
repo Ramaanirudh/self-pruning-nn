@@ -1,0 +1,54 @@
+
+=== Starting training with lambda=1e-05 on cpu (2026-04-24 12:06:21.458865) ===
+Epoch [ 1/10] | Loss: 9.4564 | Accuracy: 41.69% | Sparsity: 0.00%
+Epoch [ 2/10] | Loss: 7.9744 | Accuracy: 50.34% | Sparsity: 0.00%
+Epoch [ 3/10] | Loss: 6.8602 | Accuracy: 54.85% | Sparsity: 0.00%
+Epoch [ 4/10] | Loss: 6.0000 | Accuracy: 58.36% | Sparsity: 0.00%
+Epoch [ 5/10] | Loss: 5.3362 | Accuracy: 61.21% | Sparsity: 0.00%
+Epoch [ 6/10] | Loss: 4.8170 | Accuracy: 64.10% | Sparsity: 0.00%
+Epoch [ 7/10] | Loss: 4.3975 | Accuracy: 66.85% | Sparsity: 0.00%
+Epoch [ 8/10] | Loss: 4.0603 | Accuracy: 69.37% | Sparsity: 0.00%
+Epoch [ 9/10] | Loss: 3.7745 | Accuracy: 71.86% | Sparsity: 0.00%
+Epoch [10/10] | Loss: 3.5352 | Accuracy: 74.30% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.0001 on cpu (2026-04-24 12:12:24.455179) ===
+Epoch [ 1/10] | Loss: 78.8233 | Accuracy: 42.01% | Sparsity: 0.00%
+Epoch [ 2/10] | Loss: 63.2506 | Accuracy: 49.97% | Sparsity: 0.00%
+Epoch [ 3/10] | Loss: 50.1021 | Accuracy: 54.09% | Sparsity: 0.00%
+Epoch [ 4/10] | Loss: 39.6686 | Accuracy: 57.39% | Sparsity: 0.00%
+Epoch [ 5/10] | Loss: 31.6678 | Accuracy: 59.66% | Sparsity: 0.00%
+Epoch [ 6/10] | Loss: 25.6152 | Accuracy: 61.74% | Sparsity: 0.00%
+Epoch [ 7/10] | Loss: 21.0266 | Accuracy: 63.38% | Sparsity: 0.00%
+Epoch [ 8/10] | Loss: 17.5179 | Accuracy: 64.98% | Sparsity: 0.00%
+Epoch [ 9/10] | Loss: 14.8066 | Accuracy: 66.11% | Sparsity: 0.00%
+Epoch [10/10] | Loss: 12.6799 | Accuracy: 67.83% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.001 on cpu (2026-04-24 12:18:38.469382) ===
+Epoch [ 1/10] | Loss: 772.5466 | Accuracy: 41.65% | Sparsity: 0.00%
+Epoch [ 2/10] | Loss: 616.4278 | Accuracy: 50.00% | Sparsity: 0.00%
+Epoch [ 3/10] | Loss: 483.2607 | Accuracy: 54.08% | Sparsity: 0.00%
+Epoch [ 4/10] | Loss: 377.1267 | Accuracy: 56.43% | Sparsity: 0.00%
+Epoch [ 5/10] | Loss: 295.5132 | Accuracy: 58.43% | Sparsity: 0.00%
+Epoch [ 6/10] | Loss: 233.5232 | Accuracy: 59.55% | Sparsity: 0.00%
+Epoch [ 7/10] | Loss: 186.3677 | Accuracy: 60.25% | Sparsity: 0.00%
+Epoch [ 8/10] | Loss: 150.1966 | Accuracy: 60.86% | Sparsity: 0.00%
+Epoch [ 9/10] | Loss: 122.1431 | Accuracy: 61.50% | Sparsity: 0.00%
+Epoch [10/10] | Loss: 100.1335 | Accuracy: 61.43% | Sparsity: 0.00%
+
+=== Starting training with lambda=1e-05 on cpu (2026-04-24 12:51:03.980195) ===
+Epoch [ 1/1] | Loss: 10.1642 | Accuracy: 41.51% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.0001 on cpu (2026-04-24 12:51:38.478914) ===
+Epoch [ 1/1] | Loss: 86.8153 | Accuracy: 41.59% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.001 on cpu (2026-04-24 12:52:14.566450) ===
+Epoch [ 1/1] | Loss: 853.3609 | Accuracy: 42.00% | Sparsity: 0.00%
+
+=== Starting training with lambda=1e-05 on cpu (2026-04-24 12:54:56.107250) ===
+Epoch [ 1/1] | Loss: 9.4605 | Accuracy: 41.50% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.0001 on cpu (2026-04-24 12:55:28.274131) ===
+Epoch [ 1/1] | Loss: 78.8243 | Accuracy: 41.55% | Sparsity: 0.00%
+
+=== Starting training with lambda=0.001 on cpu (2026-04-24 12:56:03.266851) ===
+Epoch [ 1/1] | Loss: 772.5526 | Accuracy: 41.85% | Sparsity: 0.00%
